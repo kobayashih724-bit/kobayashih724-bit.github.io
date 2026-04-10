@@ -692,3 +692,38 @@ small {
     background-position-x: 30%;
   }
 }
+
+/* Equal-height project cards in one row (overrides Materialize floats) */
+#projects .container > .row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+#projects .container > .row > .col {
+  float: none !important;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  left: auto;
+  right: auto;
+}
+
+#projects .container > .row > .col > .card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  flex: 1 1 auto;
+  min-height: 100%;
+}
+
+#projects .container > .row > .col > .card > .card-content {
+  flex: 1 1 auto;
+}
+
+/* Keep inline code from adding extra line box height vs plain text */
+#projects .card-content code {
+  font-size: 0.92em;
+  padding: 0 0.15em;
+  vertical-align: baseline;
+}
