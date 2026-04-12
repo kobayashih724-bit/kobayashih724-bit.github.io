@@ -1,0 +1,67 @@
+================================================================================
+HARUTO KOBAYASHI
+Software Developer
+
+kobayashih724@gmail.com
+https://kobayashih724-bit.github.io/
+================================================================================
+
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Full-stack developer with 5 years of professional experience building web applications, APIs, and data-driven features. Strong in TypeScript, Python, and modern front-end frameworks. Passionate about reliable systems, clear UX, and shipping maintainable code for real users.
+
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+  • Languages: JavaScript, TypeScript, Python, Go, PHP
+  • Databases: MySQL, PostgreSQL, MongoDB
+  • Front-end libraries: React, Vue.js, Angular
+  • Frameworks and APIs: FastAPI, Express, Laravel, Next.js, TensorFlow, OpenAI API, LangChain
+  • DevOps and cloud: Git, Docker, Kubernetes, AWS, GCP, JIRA
+  • Soft skills: Problem solving, teamwork, time management, adaptability
+
+EXPERIENCE
+--------------------------------------------------------------------------------
+
+NovaSoft Digital — Full-Stack Developer
+January 2025 - October 2025 | Remote, full-time contract
+
+  • End-to-end web apps: React front end, Node.js/Express and MongoDB back end.
+  • REST APIs and third-party integrations for cross-platform data flow.
+  • CI/CD pipelines for automated testing and deployment (reduced deployment time by 30%).
+  • Stack: React.js, Node.js, Express.js, MongoDB, TypeScript, REST APIs, Git.
+
+CloudNova Technologies — Front-End Developer
+July 2024 - December 2024 | Remote, full-time contract
+
+  • React and TypeScript components for large single-page applications.
+  • Jest and Cypress testing (reduced production bugs).
+  • Led migration of legacy UI to modern React.
+  • Stack: React.js, Redux, TypeScript, Jest, Cypress, Git, REST APIs.
+
+BrightWeb Solutions — Front-End Developer
+January 2023 - June 2023 | Remote, part-time contract
+
+  • Reusable React components and responsive layouts (Tailwind CSS, Flexbox).
+  • Performance tuning: code splitting and lazy loading (faster page loads).
+  • Stack: React.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, Git.
+
+SELECTED PROJECTS
+--------------------------------------------------------------------------------
+  • Coworking Cafe (React, Express) - https://www.coworkingcafe.com/
+  • Mission Control / Lunar MC (Angular, Python) - https://app.lunarmc.ai
+  • Stay AI (Vue, Laravel) - https://stay.ai/
+
+EDUCATION
+--------------------------------------------------------------------------------
+The University of Tokyo
+Tokyo, Japan
+
+Bachelor of Technology in Information and Communication Technology
+
+Relevant coursework:
+  • Data Structures and Algorithms
+  • Database Management Systems
+  • Web Application Development
+  • Machine Learning
+
+================================================================================

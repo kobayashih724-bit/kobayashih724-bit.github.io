@@ -20,8 +20,7 @@
 ✔️ Projects \
 ✔️ Skills \
 ✔️ Education\
-✔️ Contact Info\
-✔️ Resume
+✔️ Contact Info
 
 To view a live example, **[click here](https://sky-man-dev.github.io/)**
 

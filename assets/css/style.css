@@ -119,6 +119,21 @@
   color: #00796b;
   background-color: white;
 }
+
+#intro .buttons {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 14px;
+}
+
+#intro .buttons .contactme {
+  margin-top: 0;
+}
+
+#intro .buttons .contactme .fa-envelope {
+  margin-right: 2px;
+}
 /* main body */
 
 /* body-color */
@@ -726,4 +741,30 @@ small {
   font-size: 0.92em;
   padding: 0 0.15em;
   vertical-align: baseline;
+}
+
+/* About: classified skillset */
+#about .skillset-title {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin: 1.5rem 0 0.75rem;
+}
+
+#about dl.skillset {
+  margin: 0 0 1rem;
+}
+
+#about dl.skillset dt {
+  font-weight: 600;
+  color: #00695c;
+  margin-top: 0.65rem;
+}
+
+#about dl.skillset dt:first-of-type {
+  margin-top: 0;
+}
+
+#about dl.skillset dd {
+  margin: 0.15rem 0 0 0;
+  padding-left: 0;
 }
